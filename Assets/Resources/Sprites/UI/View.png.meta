@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: eda41ed95adabaf4c8334e71aafcd4b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4608005834182041027
+    second: slider_panel
+  - first:
+      213: 922181710866998437
+    second: toggle_1
+  - first:
+      213: -6045409909288694456
+    second: toggle_background
+  - first:
+      213: 7156541369407934796
+    second: toggle_2
+  - first:
+      213: 5888722531031578107
+    second: 21312312312333444444_4
+  - first:
+      213: -8460487214408087885
+    second: toggle_3
+  - first:
+      213: 8280131351192784102
+    second: 21312312312333444444_6
+  - first:
+      213: 333574647545471094
+    second: toggle_4
+  - first:
+      213: 4831814705186279220
+    second: 21312312312333444444_8
+  - first:
+      213: -4566947964309725717
+    second: toggle_5
+  - first:
+      213: -3582232782551218835
+    second: 21312312312333444444_10
+  - first:
+      213: 6649453549758746659
+    second: slider_btn_r
+  - first:
+      213: 7474430947109900881
+    second: slider_btn_l
+  - first:
+      213: 2844655017856863045
+    second: 21312312312333444444_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slider_panel
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2249
+        width: 1048
+        height: 2746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd195554ece2ff30800000000000000
+      internalID: 4608005834182041027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggle_1
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 4697
+        width: 362
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4e69e416f3ccc00800000000000000
+      internalID: 922181710866998437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggle_background
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 4000
+        width: 583
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d883ba7b36a1ca0800000000000000
+      internalID: -6045409909288694456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggle_2
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 4107
+        width: 384
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4192ff5574215360800000000000000
+      internalID: 7156541369407934796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21312312312333444444_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3262
+        width: 583
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5f9f231f1f8b150800000000000000
+      internalID: 5888722531031578107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggle_3
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 3504
+        width: 420
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6c87e34bf469a80800000000000000
+      internalID: -8460487214408087885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21312312312333444444_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2652
+        width: 583
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eccb69089fe8e270800000000000000
+      internalID: 8280131351192784102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggle_4
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 2857
+        width: 403
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6702605ef5811a400800000000000000
+      internalID: 333574647545471094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21312312312333444444_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2037
+        width: 583
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f0323dfdd0e0340800000000000000
+      internalID: 4831814705186279220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggle_5
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2247
+        width: 274
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed10afe501fe90c0800000000000000
+      internalID: -4566947964309725717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21312312312333444444_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1427
+        width: 583
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d658645834a594ec0800000000000000
+      internalID: -3582232782551218835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slider_btn_r
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1842
+        width: 118
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32094dfe5ca974c50800000000000000
+      internalID: 6649453549758746659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slider_btn_l
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1842
+        width: 117
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1521cac58538ab760800000000000000
+      internalID: 7474430947109900881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21312312312333444444_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 784
+        width: 583
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b04e7caae3a7720800000000000000
+      internalID: 2844655017856863045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      toggle_background: -6045409909288694456
+      toggle_4: 333574647545471094
+      21312312312333444444_8: 4831814705186279220
+      slider_btn_r: 6649453549758746659
+      slider_panel: 4608005834182041027
+      21312312312333444444_10: -3582232782551218835
+      toggle_2: 7156541369407934796
+      toggle_3: -8460487214408087885
+      toggle_5: -4566947964309725717
+      21312312312333444444_13: 2844655017856863045
+      21312312312333444444_4: 5888722531031578107
+      slider_btn_l: 7474430947109900881
+      toggle_1: 922181710866998437
+      21312312312333444444_6: 8280131351192784102
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

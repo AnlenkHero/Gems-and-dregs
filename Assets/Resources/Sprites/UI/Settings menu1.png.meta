@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 4f3032ab1bcd6c147aaae216d6c8b803
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3338415828850664159
+    second: volume_line
+  - first:
+      213: -5391751732269412037
+    second: settings_panel
+  - first:
+      213: 419117392632941660
+    second: close_btn
+  - first:
+      213: -3218286116160310245
+    second: dropdown_top
+  - first:
+      213: 2095153711714087041
+    second: Settings menu1_4
+  - first:
+      213: -7127856702124036353
+    second: dropdown_arrow
+  - first:
+      213: 4441818215127223662
+    second: volume_handle
+  - first:
+      213: -8054208710298597441
+    second: dropdown_bottom
+  - first:
+      213: -4535694058612037060
+    second: fullscreen_tick
+  - first:
+      213: -6291338283547600754
+    second: volume_tick
+  - first:
+      213: 5717733390502528897
+    second: volume_speaker
+  - first:
+      213: -6286878348772903717
+    second: volume_line_s
+  - first:
+      213: -2991663741233952032
+    second: volume_line_m
+  - first:
+      213: -5438320605762929253
+    second: volume_line_l
+  - first:
+      213: -615090709068459731
+    second: fullscreen_toggle_bck
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: volume_line
+      rect:
+        serializedVersion: 2
+        x: 4475
+        y: 4162
+        width: 1804
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d90d8cd709ba1d0800000000000000
+      internalID: -3338415828850664159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_panel
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1729
+        width: 3197
+        height: 2421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b311cf0cd56ac25b0800000000000000
+      internalID: -5391751732269412037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close_btn
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 3779
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c031b4c0101d500800000000000000
+      internalID: 419117392632941660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dropdown_top
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 3264
+        width: 2046
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1471bc14d95653d0800000000000000
+      internalID: -3218286116160310245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings menu1_4
+      rect:
+        serializedVersion: 2
+        x: 7182
+        y: 3400
+        width: 132
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1803f80433b731d10800000000000000
+      internalID: 2095153711714087041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dropdown_arrow
+      rect:
+        serializedVersion: 2
+        x: 7182
+        y: 3229
+        width: 132
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe620c2814c41d90800000000000000
+      internalID: -7127856702124036353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volume_handle
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1990
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d8485022284ad30800000000000000
+      internalID: 4441818215127223662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dropdown_bottom
+      rect:
+        serializedVersion: 2
+        x: 4836
+        y: 1782
+        width: 2044
+        height: 1421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb78bcbd9d3b93090800000000000000
+      internalID: -8054208710298597441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullscreen_tick
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 1799
+        width: 254
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a649ae84afd01c0800000000000000
+      internalID: -4535694058612037060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volume_tick
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1213
+        width: 277
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88545ff92da0b8a0800000000000000
+      internalID: -6291338283547600754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volume_speaker
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1287
+        width: 141
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1870b4d8938795f40800000000000000
+      internalID: 5717733390502528897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volume_line_s
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 1354
+        width: 54
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4fb4b737580c8a0800000000000000
+      internalID: -6286878348772903717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volume_line_m
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1318
+        width: 63
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea85588da97b76d0800000000000000
+      internalID: -2991663741233952032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volume_line_l
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1295
+        width: 74
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d30d6f8343784b0800000000000000
+      internalID: -5438320605762929253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullscreen_toggle_bck
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 1041
+        width: 386
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21d45d4242c677f0800000000000000
+      internalID: -615090709068459731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dropdown_bottom: -8054208710298597441
+      volume_speaker: 5717733390502528897
+      volume_tick: -6291338283547600754
+      volume_line_m: -2991663741233952032
+      volume_line_l: -5438320605762929253
+      volume_line: -3338415828850664159
+      dropdown_arrow: -7127856702124036353
+      Settings menu1_4: 2095153711714087041
+      dropdown_top: -3218286116160310245
+      fullscreen_tick: -4535694058612037060
+      volume_line_s: -6286878348772903717
+      fullscreen_toggle_bck: -615090709068459731
+      close_btn: 419117392632941660
+      settings_panel: -5391751732269412037
+      volume_handle: 4441818215127223662
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

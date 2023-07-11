@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c311f793186c184cb4b3aae4a9e826b, type: 3}
+  m_Name: mysterious
+  m_EditorClassIdentifier: 
+  gemName: Mysterious gem
+  gemDescription: I don't know what it is and what it is supposed to do. Maybe you'll
+    find out!
+  gemSprites:
+  - {fileID: 21300000, guid: c964d2a487ea6844183da750be40a243, type: 3}
+  - {fileID: 21300000, guid: 7f5be6f7a5cafa44d928224e55d83e7d, type: 3}
+  - {fileID: 21300000, guid: debf44dd970cfdb4894ab428d81e59a3, type: 3}
+  previewSprites:
+  - {fileID: 21300000, guid: 1c56177e976884f45b7c54cba7e1f36b, type: 3}
+  - {fileID: 21300000, guid: 72bdb0bd413999d43985776a71f3afe2, type: 3}
+  - {fileID: 21300000, guid: bedc620bdc51b664981187ae2de1e729, type: 3}
+  levelsToUnlock: 3
